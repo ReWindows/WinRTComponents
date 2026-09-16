@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "WinRTComponents.dll",
+  "latest": "1774637130-61DA4514B3F34CB7933FE58C69E7AE1A-1",
+  "builds": [
+    {
+      "key": "1774637130-61DA4514B3F34CB7933FE58C69E7AE1A-1",
+      "timestamp": "1774637130",
+      "pdb_guid": "61DA4514B3F34CB7933FE58C69E7AE1A",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1774637130-61DA4514B3F34CB7933FE58C69E7AE1A-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
